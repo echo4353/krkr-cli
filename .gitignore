@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+design
+*.log
+.vuerc
+.version
+.versions
+.changelog
+package-lock.json
+.vscode

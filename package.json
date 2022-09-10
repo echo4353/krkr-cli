@@ -1,0 +1,19 @@
+{
+  "name": "krkr-cli",
+  "version": "1.0.0",
+  "description": "one cli for create project",
+  "main": "./bin/index.js",
+  "bin": {
+    "krkr": "./bin/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.5"
+  }
+}
