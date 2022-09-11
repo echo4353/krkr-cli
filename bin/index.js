@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+//使用node开发命令行工具所执行的 javascript 脚本必须在顶部加入#!/usr/bin/env node 声明
 /** 
  * 开发后台脚手架，快速生成标准后台架构
  * @author pitersu
