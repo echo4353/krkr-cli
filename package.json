@@ -12,7 +12,15 @@
   "bin": {
     "krkr": "./bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitersu/krkr-cli.git"
+  },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pitersu/krkr-cli/issues"
+  },
+  "homepage": "https://github.com/pitersu/krkr-cli#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^7.2.0",
