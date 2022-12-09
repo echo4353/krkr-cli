@@ -25,7 +25,7 @@ async function printLogo () {
 
 const templates = {
   viteAdmingithub: 'https://github.com:pitersu/vite-admin-demo#main',
-  v3Admingitlab: 'https://github.com:pitersu/222',
+  v3Admingitlab: 'http://ent-code.corp.36kr.com/frontend/vue3-sso-demo.git',
 }
 program
   .command('create <app-name>')
