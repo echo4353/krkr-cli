@@ -1,6 +1,6 @@
 {
   "name": "krkr-cli",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "one cli for create project",
   "main": "./bin/index.js",
   "keywords": [
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pitersu/krkr-cli.git"
+    "url": "git+https://github.com/echo4353/krkr-cli.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pitersu/krkr-cli/issues"
+    "url": "https://github.com/echo4353/krkr-cli/issues"
   },
-  "homepage": "https://github.com/pitersu/krkr-cli#readme",
+  "homepage": "https://github.com/echo4353/krkr-cli#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^7.2.0",

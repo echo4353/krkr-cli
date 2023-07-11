@@ -3,7 +3,7 @@
 //使用node开发命令行工具所执行的 javascript 脚本必须在顶部加入#!/usr/bin/env node 声明
 /** 
  * 开发后台脚手架，快速生成标准后台架构
- * @author pitersu
+ * @author echo4353
 */
 const program = require('commander')
 const inquirer = require('inquirer');
@@ -24,7 +24,7 @@ async function printLogo () {
 }
 
 const templates = {
-  viteAdmingithub: 'https://github.com:pitersu/vite-admin-demo#main',
+  viteAdmingithub: 'https://github.com:echo4353/vite-admin-demo#main',
   v3Admingitlab: 'http://ent-code.corp.36kr.com/frontend/vue3-sso-demo.git',
 }
 program
